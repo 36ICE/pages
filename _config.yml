@@ -6,4 +6,5 @@ show_downloads: true
 page:
   title: zengcd
 markdown: redcarpet
+redcarpet:
 extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough", "with_toc_data"]
