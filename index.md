@@ -1,13 +1,5 @@
 
-<script type="text/javascript">
-$(document).ready(function() {
-    $('#toc').toc();
-});
-</script>
 
-<aside id="toc">
-
-</aside>
 
 ## Title
 ## Page 1
