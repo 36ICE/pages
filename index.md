@@ -5,9 +5,9 @@ $(document).ready(function() {
 });
 </script>
 
-<div id="toc">
+<aside id="toc">
 
-</div>
+</aside>
 
 ## Title
 ## Page 1
