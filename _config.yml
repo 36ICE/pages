@@ -2,3 +2,7 @@ theme: jekyll-theme-cayman
 title: zengcd
 description: ht
 show_downloads: true
+
+markdown: redcarpet
+redcarpet:
+extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough", "with_toc_data"]

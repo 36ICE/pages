@@ -1,33 +1,18 @@
-[TOC]
 
-第一章
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#toc').toc();
+});
+</script>
 
-第二章
+<div id="toc">
 
+</div>
 
+## Title
+## Page 1
+### Note on Paragraph 3
+## Page 2
+### Note on Paragraph 2
+### Note on Paragraph 4
 
-阿数学大师的
-
-
-
-<html>
-<body>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-              
-                <div>
-                
-                </div>
-            </td>
-           
-            <td>
-               <div>
-                            
-               </div>
-                
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
