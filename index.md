@@ -1,16 +1,9 @@
 
-# [Spider](https://zcdzcdzcd.github.io/pages/html/md/againstSpider.md) 
+# [Spider](https://zcdzcdzcd.github.io/pages/html/md/againstSpider) 
 ## 一、简介
-## 1.1 概述
-## 1.2 社区交流
-## 1.3 特性
-## 1.4 发展
-## 1.5 下载
-### 文档地址
-### 源码仓库地址
-### 中央仓库地址
-## 1.6 环境
+
+## 二、爬虫
 ## 二、xml爬虫配置器
-# [BD](https://zcdzcdzcd.github.io/pages/html/md/againstSpider.md) 
-# [AI](https://zcdzcdzcd.github.io/pages/html/md/againstSpider.md) 
-# [DB](https://zcdzcdzcd.github.io/pages/html/md/againstSpider.md) 
+# [BD](https://zcdzcdzcd.github.io/pages/html/md/againstSpider) 
+# [AI](https://zcdzcdzcd.github.io/pages/html/md/againstSpider) 
+# [DB](https://zcdzcdzcd.github.io/pages/html/md/againstSpider) 
