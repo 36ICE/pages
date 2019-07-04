@@ -25,12 +25,29 @@
     <script  src="/pages/script/toc.js"></script>
 
 </head>
+<style>
+
+    aside {
+        line-height: 30px;
+        background-color: #eeeeee;
+        height: 500px;
+        width: 20%;
+        float: left;
+        padding: 5px;
+    }
+
+    section {
+        width: 70%;
+        height: 500px;
+        float: left;
+        padding: 10px;
+    }
+</style>
 <body>
 <!--<a id="skip-to-content" href="#content">Skip to the content.</a>-->
 
 <header class="page-header" role="banner">
-<!--    <h1 class="project-name">{{ default: page.title | default: site.title | default: site.github.repository_name }}</h1>-->
-    <h1 class="project-name">zengcd</h1>
+    <h1 class="project-name">{{ default: page.title | default: site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     {% if site.github.is_project_page %}
     <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -41,12 +58,12 @@
     {% endif %}
 </header>
 
-<aside id="toc">
 
-</aside>
 
 <main id="content" class="main-content" role="main">
+    <aside id="toc">
 
+    </aside>
     <section>
     {{ content }}
     </section>
