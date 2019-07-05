@@ -12,6 +12,9 @@
 
 # Input/Output
 ## Pickling
+```
+read_pickle(path[, compression])	Load pickled pandas object (or any object) from file.
+```
 ## Flat File
 ## Clipboard
 ## Excel
