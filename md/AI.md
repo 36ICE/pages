@@ -1,4 +1,4 @@
-# AI
+# 人工智能
 ## 常用库
 ### 1.2、[numpy](https://zcdzcdzcd.github.io/pages/md/ai/libraries/numpy)
 ### 1.3、[sklearn](https://zcdzcdzcd.github.io/pages/md/ai/libraries/sklearn)
