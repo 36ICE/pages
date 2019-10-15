@@ -6,7 +6,7 @@
                 title: '<i></i>',
                 minimumHeaders: 0,
                 headers: ' h1 , h2',//, h2, h3, h4, h5, h6
-                listType: 'ol', // values: [ol|ul]
+                listType: 'ul', // values: [ol|ul]
                 showEffect: 'show', // values: [show|slideDown|fadeIn|none]
                 showSpeed: 'slow', // set to 0 to deactivate effect
                 classes: { list: '',
@@ -39,6 +39,7 @@
             return;
         }
 
+        console.log(headers);
         if (0 === settings.showSpeed) {
             settings.showEffect = 'none';
         }
@@ -65,6 +66,7 @@
             .addClass('clickable-header')
             .each(function(_, header) {
                 this_level = get_level(header);
+
                 if (!settings.noBackToTopLinks && this_level === highest_level) {
                     $(header).addClass('top-level-header').after(return_to_top);
                 }
